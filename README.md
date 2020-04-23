@@ -1,4 +1,4 @@
-# articleReview
+# 文献レビュー
 
 ## キーワード
 Virtual Learning Environment / 仮想学習環境
